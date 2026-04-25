@@ -3,12 +3,12 @@
     <channel>
         <title>buddy</title>
         <item>
-            <title>1.1.2</title>
-            <pubDate>Fri, 24 Apr 2026 19:28:29 +0000</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Sat, 25 Apr 2026 09:13:55 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/btxTruong/buddy-releases/releases/download/v1.1.2/buddy-1.1.2.dmg" length="2106409" type="application/octet-stream" sparkle:edSignature="A5fqP42dJM9jXw+ZhTi4HU4Nwqp2yRQpHkJK8sErcr2UdTjnWXbJdSB237kiXCQO8GubDDlkT5HWAiPALcIAAA=="/>
+            <enclosure url="https://github.com/btxTruong/buddy-releases/releases/download/v1.2.0/buddy-1.2.0.dmg" length="2199966" type="application/octet-stream" sparkle:edSignature="6o80tSQshWJ6dWc4qx1bD29P1duZuOeGV/tYDKLoGDAvd3UCaYyEExWvJY8g4i3DvwcSf+ZROM/fTBDS9TfECw=="/>
         </item>
     </channel>
 </rss>
